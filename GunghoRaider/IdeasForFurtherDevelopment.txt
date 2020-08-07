@@ -1,0 +1,8 @@
+Ideas for further development:
+projectile launch from Raider(destroys enemies and obstacles)
+randomly moving enemy
+2 player game
+home screen with options for level, 1P/2P etc.
+add image of raider
+use aliens.py or other pygame example for development
+Add OOPS concept
